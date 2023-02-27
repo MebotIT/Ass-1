@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(to right top, #000000, #36191e, #69292c, #9c3e31, #cb5a2c, #cb5a2c, #cb5a2c, #cb5a2c, #9c3e31, #69292c, #36191e, #000000);;
+}
+.heading{
+    padding: 1em;
+    color: orange;
+    background-color:black;
+    border-radius: 2em;
+    margin-bottom: 1em;
+}
+.navi{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    margin-bottom: 1em;
+    border-radius: 1em;
+}
+.li{
+    color: orange;
+    text-justify: distribute;
+}
+.home{
+    list-style:none;
+    display: flex;
+}
+.home a{
+    font-style: bold;
+    color: orange;
+    text-decoration: none;
+}
+.aboutus{
+    padding: 0.5em;
+    color: orange;
+    background-color:black;
+    border-radius: 2em;
+}
+.aboutus p{
+    color: white;
+}
+#m{
+    position: absolute;
+    margin-left: 30em;
+    bottom: 0;
+    text-align: center;
+    color: black;
+}
+a{
+    margin: 50px 100px;
+}
