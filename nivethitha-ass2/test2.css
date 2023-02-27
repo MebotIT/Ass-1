@@ -1,0 +1,35 @@
+*{
+    background-color: lemonchiffon;
+}
+nav{
+    width: 100%;
+    height: 70px;
+    padding: 0px 70px;
+    background: greenyellow;
+    color: rebeccapurple;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 0px 5px grey;
+  }  
+.web{
+    display: flex;
+   margin-right:20px;
+ }
+ .web-link{
+   margin-right: 20px;
+ }
+ .hi
+ {
+    background-color: greenyellow;
+    font-style: italic;
+    text-align: center;
+    color:black;
+ }
+ .hel
+ {
+    background-color: greenyellow;
+    font-style: italic;
+    text-align: center;
+    color:black;
+ }
