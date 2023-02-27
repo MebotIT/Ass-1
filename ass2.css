@@ -1,0 +1,54 @@
+.head{
+    background-color: darkred;
+    color: white;
+    height: 100px;
+    text-align: justify;
+    text-align:center;
+    padding-top: 30px;
+    font-size:60px;
+}
+.head1{
+    color:white;
+    background-color: darkred;
+    width: 100%;
+  }
+.nav {
+    overflow: hidden;
+    background-color:white;
+    padding: 20px 10px;
+  }
+  .nav-left {
+    float: left;
+  }
+  .nav a:hover {
+    background-color:darkred;
+    color:white;
+    
+  }
+  .nav a {
+    float:left;
+    color:black;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size:x-large;
+    
+  }
+  .about{
+    background-color:antiquewhite;
+    color: black;
+    height: 500px;
+    text-align: justify;
+    line-height: 70px;
+    padding-top: 30px;
+    font-size:40px;
+}
+.foot{
+    display: flex; 
+    justify-content: center;
+    background-color:darkred;
+    color: azure;
+   }
