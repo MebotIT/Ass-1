@@ -1,0 +1,7 @@
+.form1,.form2,.form3{
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 4px;
+    border-radius: 3px
+}
