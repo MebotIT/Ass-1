@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+h1{
+    padding: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h3{
+margin-top:-33px;
+width: fit-content;
+
+
+}
+.form1,.form2,.form3{
+   border: 2px solid black;
+   border-left: 1px solid black;
+   padding: 20px;
+
+}
