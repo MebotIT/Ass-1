@@ -1,0 +1,37 @@
+p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+center{
+    
+    background-color: black;
+    color:teal;
+    height:50px;
+    
+    
+}
+a{
+margin-left: 30px;
+margin-right: 30px;
+}
+nav{
+    height: 50px;
+    
+    background-color: blanchedalmond;
+    
+}
+fieldset{
+    margin-top: 50px;
+}
+footer
+{
+    float:inline-start;
+    margin-right: 70px;
+    margin-top: 390px;
+   
+    margin-bottom:20px;
+
+}
+body{
+    background-color: azure;
+}
