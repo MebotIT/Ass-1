@@ -1,0 +1,53 @@
+.box{
+    height:100px;
+    background-color: black;
+    justify-content: center;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    position: relative;
+    top: 20px;
+}
+nav{
+    background-color: orangered;
+    overflow: hidden;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #480fe4;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(148, 233, 122);
+    color: white;
+    display: block;
+  }
+  .about{
+    border: solid 3px;
+    border-color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  p{
+    font-size: medium;
+  }
