@@ -1,0 +1,26 @@
+nav ul{
+    float:inline-start;
+    margin-right:80px ;
+    background-color: rgb(255, 127, 197);
+
+}
+nav ul li{
+    display:inline-block;
+    line-height: 70px;
+    font-size: larger;
+    align-items: center;
+    margin: 40px;
+}
+h1{
+    float:inline-start;
+    margin-right:80px ;
+    background-color: black;
+    color:antiquewhite;
+}
+footer{
+    float:inline-start;
+    font-size: large;
+    background-color: antiquewhite;
+    color:blue;
+    margin:40px;
+}
