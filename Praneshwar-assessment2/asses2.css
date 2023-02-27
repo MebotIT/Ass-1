@@ -1,0 +1,35 @@
+div{
+    border: 10px;
+    background-color: #D9514EFF;
+    height:30px;
+}
+b{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+li h4{
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+
+}
+
+li h4:hover{
+    color: darkgray;
+}
+
+h6{
+    color: white;
+}
+
