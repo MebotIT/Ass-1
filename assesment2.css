@@ -1,0 +1,29 @@
+div{
+    border: 10px;
+    background-color: black;
+    height: 30px;  
+}
+b{
+    color:rgb(235, 236, 237)
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+
+}
+li h4{
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px ;
+
+}
+h6{
+    color:aliceblue
+}
