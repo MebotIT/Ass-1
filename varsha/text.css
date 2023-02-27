@@ -1,0 +1,35 @@
+
+nav ul{
+    float:inline-start;
+    margin-right: 70px;
+    background-color:gray;
+
+}
+nav ul li{
+    display: inline-block;
+    line-height: 90px;
+    margin: 0 70px;
+   font-size: larger;
+    align-items: center;
+    
+}
+h1{
+   
+    float:inline-start;
+    margin-right: 100px;
+    background-color:black;
+color:white;
+}
+p{
+    text-shadow: 2px 2px blue;
+    font-size: xx-large;
+}
+footer{
+    float:inline-start;
+    margin-right: 70px;
+    width: 1350px;
+    height: 100px;
+    background-color:black;
+color:white;
+
+}
