@@ -1,0 +1,27 @@
+.header{
+    background-color: rgb(24, 24, 226);
+    opacity:1;
+    border-style: outset; 
+    border-color:darkred;
+    text-align: center;
+    border-width:thick;
+    text-decoration: dotted;
+    position: sticky;
+}
+.sec{
+    display: flex;
+    color: red;
+    font-size: 20px;
+    margin: 0%;
+}
+.about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    background-color: rgb(251, 30, 10);
+    opacity:1;
+    justify-items: baseline;
+    padding-bottom: 18px;
+    font-size: larger
+
+}
