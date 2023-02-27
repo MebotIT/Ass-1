@@ -1,0 +1,22 @@
+#header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 0px;
+}
+
+#body{
+    background-color: white;
+    border: 3px solid gray;
+    padding-bottom: 90px;
+    text-indent: 15px;
+    font-size: 18px;
+}
+#footer{
+background-color: black;
+color: white;
+text-align: center;
+padding: 50px;
+margin-bottom: 0px;
+}
