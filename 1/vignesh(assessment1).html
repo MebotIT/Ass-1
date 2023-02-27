@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body style="background-color: aqua;">
+    <h1>Employee Registration Form</h1>
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            Name:<input type="text" id="name" placeholder="Enter name"><br><br>
+            Email:<input type="email" id="email" placeholder="Enter email"><br><br>
+            Password:<input type="password" id="psw" placeholder="Enter password"><br><br>
+            Date of Birth:<input type="date" id="dob" placeholder="enter dob"><br><br>
+            Gender:<input type="radio" id="r1">Male
+            <input type="radio" id="r1">Female
+            <input type="radio" id="r1">others
+        </fieldset>
+        <fieldset>
+            <legend>Contact Information</legend>
+            Address<textarea placeholder="Enter Address"></textarea><br><br>
+            City<select name="city" id="city" >
+                <option value="Chennai">Chennai</option>
+                <option value="Banglore">Banglore</option>
+                <option value="Tiruchi">Tiruchi</option>
+              </select><br><br>
+            Phone:<input type="number" placeholder="Type phone number">
+        </fieldset>
+        <fieldset>
+            <legend>Additional Information</legend>
+            Hobbies:<br><br>
+            <input type="checkbox" id="c1">Reading<br><br>
+            <input type="checkbox" id="c1">Traveling<br><br>
+            <input type="checkbox" id="c1">Sports<br><br><br><br>
+            Profile picture:
+            <input type="file">
+        </fieldset>
+        <a href="https://www.mebot.in/">mebot</a><br><br>
+        <input type="submit">
+    </form>
+</body>
+</html>
