@@ -1,0 +1,44 @@
+.box1{
+    height: 100px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    
+}
+h1{
+    position: relative;
+    top: 30px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    color: yellowgreen;
+}
+a:hover{
+    font-size: xx-large;
+    transition: 2s;
+    color: black;
+}
+.about{
+    border: solid 2px;
+    border-color: grey;
+    justify-content: center;
+    width: 97%;
+
+}
+.box2{
+    height: 100px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    
+}
+h3{
+    position: relative;
+    top: 30px;
+}

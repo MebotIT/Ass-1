@@ -1,0 +1,24 @@
+.box1{
+    border: solid 2px;
+    border-color: black;
+    padding: 5px;
+}
+.per{
+    position: absolute;
+    top:70px;
+    background-color: white;
+}
+
+body{
+    background-color: cyan;
+}
+.contact{
+    background-color: white;
+    position: absolute;
+    top: 260px;
+}
+.add{
+    background-color: white;
+    position: absolute;
+    top: 445px;
+}
