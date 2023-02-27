@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+        }
+
+        .navbar {
+            display: flex;
+            background-color: rgb(60, 124, 197);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            font-size: 20px;
+        }
+
+        .nav-right {
+            text-align: right;
+            float: right;
+        }
+
+        .nav-right li {
+            display: inline;
+            float: left;
+            padding-left: 15px;
+        }
+
+        .nav-right li a {
+            display: block;
+            padding: 8px;
+            text-decoration: none;
+            color: white;
+        }
+
+        .nav-right li ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .nav-right li a:hover {
+            background-color: rgb(31, 199, 106);
+        }
+
+        .nav-right .active {
+            background-color: #04AA6D;
+        }
+
+
+        html {
+            box-sizing: border-box;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+       
+
+        .about-section {
+            padding: 50px;
+            text-align: center;
+            background-color: #474e5d;
+            color: white;
+        }
+
+        .container {
+            padding: 0 16px;
+        }
+
+        .container::after,
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .title {
+            color: grey;
+        }
+    </style>
+    <div class="about-section">
+        <h1>WELCOME TO MY WEBSITE</h1>
+    </div>
+    <nav class="navbar">
+        <div class="nav-right">
+            <li><a href="">Home</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Contact</a></li>
+        </div>
+    </nav> <br><br>
+    <div class="about">
+        <fieldset>
+            <legend></legend>
+        <h1>About Us </h1>
+        we are a company that specializies in creating simple website using HTML and CSS,Contact us for more information
+        </fieldset>
+        <br><br>
+    </div>
+    <div class="about-section">
+    <h3 class="credit text-center mx-auto">created by <span>mr. prabha</span> | all rights reserved.</h3>
+    </div>
+</body>
+
+</html>
