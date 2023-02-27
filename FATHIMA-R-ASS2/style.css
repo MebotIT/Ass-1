@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#header{
+    text-align: center;
+    font-family:"arduino";
+    /* padding: 40px; */
+    height: 90px;
+    width: 100%;
+    padding-top: 40px;
+    background-color: rgb(227, 205, 228);
+    color: rgb(22, 21, 21);
+}
+#nav a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(23, 23, 23);
+}
+#nav ul{
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+   
+}
+#nav{
+    background-color: rgb(227, 86, 161);
+}
+.abt{
+    margin: 50px;
+    border-style: solid;
+    height: 200px;
+    padding-left: 50px;
+    padding-top: 60px;
+    background-color: rgb(170, 135, 202,0.77);
+}
+.abt p{
+    padding: 50px;
+    font-family: cursive;
+}
+section{
+    /* background-image: url(images/pexels-photo-1408221.jpeg); */
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    background-color: rgb(201, 53, 154);
+    height: 70px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 40px;
+
+}
