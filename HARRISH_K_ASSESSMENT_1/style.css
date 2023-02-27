@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 2px;
+}
+body{
+    background-color: aquamarine;
+
+}
+h3{
+    margin-top: -17px;
+    background-color: aquamarine;
+    width: fit-content;
+}
+a{
+    margin-top: -40px;
+    background-color: aquamarine;
+    width: fit-content;
+
+}
+.personal{
+    margin-top: 15px;
+    border: 1px solid black ;
+    border-radius: 9px;
+    padding: 5px;
+}
+.contact{
+    margin-top: 15px;
+    border: 1px solid black ;
+    border-radius: 9px;
+    padding: 5px;
+}
+.additional{
+    margin-top: 15px;
+    border: 1px solid black ;
+    border-radius: 9px;
+    padding: 5px;
+}
