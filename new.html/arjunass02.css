@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+
+.b1 {
+  width: auto;
+  height: 200px;
+
+  background-color: #000000;
+}
+.mhead {
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  left: 450px;
+  padding-top: 70px;
+  color: rgb(250, 253, 255);
+  font-size: 60px;
+}
+.mainnav {
+  width: auto;
+  background-color: rgb(255, 145, 0);
+}
+li {
+  display: inline;
+  padding-left: 10px;
+  font-family: Arial;
+}
+.d {
+  text-decoration: none;
+}
+.d1:hover {
+  color: #ad83b1;
+}
+.d2:hover {
+  color: #ad83b1;
+}
+.d3:hover {
+  color: #ad83b1;
+}
+.d4:hover {
+  color: #ad83b1;
+}
+.ah {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 40px;
+}
+.info {
+  font-size: 20px;
+  padding-left: 10px;
+  font-family: Arial;
+}
+.abtus {
+  position: relative;
+  left: 100px;
+  width: 1300px;
+  height: 200px;
+  margin-left: 10px;
+  background-color: rgb(245, 219, 172);
+  color: rgb(32, 1, 32);
+  font-family: Arial;
+}
+
+.abtus:hover {
+  animation-name: inn;
+  animation-duration: 2s;
+  animation-timing-function: ease-in;
+}
+@keyframes inn {
+  75% {
+    transform: scale(1.1, 1.1);
+  }
+}
+.fo {
+  width: auto;
+  height: 200px;
+
+  background-color: #1e303f;
+}
+.fod {
+  font-family: "Roboto", sans-serif;
+  padding-top: 70px;
+  position: relative;
+  left: 600px;
+  color: aliceblue;
+  font-size: 20px;
+}
