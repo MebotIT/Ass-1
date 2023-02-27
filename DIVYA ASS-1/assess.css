@@ -1,0 +1,20 @@
+*
+{
+    background-color: aqua;
+    font-size: medium;
+    font-weight: bold;
+}
+h1{
+    font-size: x-large;
+}
+input,textarea{
+    border-radius: 10px;
+}
+legend
+{
+    text-decoration: underline;
+    color:blue;
+}
+hr{
+    border: 2px solid black;
+}
