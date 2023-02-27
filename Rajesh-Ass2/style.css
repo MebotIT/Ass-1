@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+
+.b1 {
+  width: auto;
+  height: 200px;
+
+  background-color: #2e3840;
+}
+.mhead {
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  left: 450px;
+  padding-top: 70px;
+  color: aliceblue;
+  font-size: 60px;
+}
+.mainnav {
+  width: auto;
+  background-color: antiquewhite;
+}
+li {
+  display: inline;
+  padding-left: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.d {
+  text-decoration: none;
+}
+.d1:hover {
+  color: #3a98b9;
+}
+.d2:hover {
+  color: #3a98b9;
+}
+.d3:hover {
+  color: #3a98b9;
+}
+.d4:hover {
+  color: #3a98b9;
+}
+.ah {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 40px;
+}
+.info {
+  font-size: 20px;
+  padding-left: 10px;
+}
+.abtus {
+  position: relative;
+  left: 100px;
+  width: 1300px;
+  height: 200px;
+  margin-left: 10px;
+  background-color: wheat;
+}
+
+.abtus:hover {
+  animation-name: inn;
+  animation-duration: 2s;
+  animation-timing-function: ease-in;
+}
+@keyframes inn {
+  75% {
+    transform: scale(1.1, 1.1);
+  }
+}
+.fo {
+  width: auto;
+  height: 200px;
+
+  background-color: #2e3840;
+}
+.fod {
+  font-family: "Roboto", sans-serif;
+  padding-top: 70px;
+  position: relative;
+  left: 600px;
+  color: aliceblue;
+  font-size: 20px;
+}
